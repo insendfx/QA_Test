@@ -8,4 +8,7 @@ public class FirstTest {
     void firstTest(){
         Assertions.assertTrue(3>2);
     }
+    void secondTest (){
+        Assertions.assertTrue(3<1);
+    }
 }
