@@ -11,4 +11,5 @@ public class FirstTest {
     void secondTest (){
         Assertions.assertTrue(3<1);
     }
+    XUIN()
 }
